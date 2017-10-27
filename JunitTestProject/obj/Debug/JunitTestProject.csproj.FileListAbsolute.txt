@@ -11,3 +11,5 @@ C:\Users\pollux\source\repos\guidgenerator-aspnet\JunitTestProject\obj\Debug\Jun
 C:\Users\pollux\source\repos\guidgenerator-aspnet\JunitTestProject\obj\Debug\JunitTestProject.csproj.CoreCompileInputs.cache
 C:\Users\pollux\source\repos\guidgenerator-aspnet\JunitTestProject\obj\Debug\JunitTestProject.dll
 C:\Users\pollux\source\repos\guidgenerator-aspnet\JunitTestProject\obj\Debug\JunitTestProject.pdb
+C:\Users\pollux\source\repos\guidgenerator-aspnet\JunitTestProject\bin\Debug\JunitTestProject.dll.CodeAnalysisLog.xml
+C:\Users\pollux\source\repos\guidgenerator-aspnet\JunitTestProject\bin\Debug\JunitTestProject.dll.lastcodeanalysissucceeded
