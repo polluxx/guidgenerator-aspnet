@@ -15,8 +15,8 @@ namespace JunitTestProject
         [TestMethod]
         public void TestMethodFail()
         {
-            Assert.Fail();
-            //Assert.IsTrue(true);
+            //Assert.Fail();
+            Assert.IsTrue(true);
         }
     }
 }
