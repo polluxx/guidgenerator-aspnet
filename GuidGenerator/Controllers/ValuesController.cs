@@ -13,6 +13,7 @@ namespace GuidGenerator.Controllers
         public string Get()
         {
             return System.Guid.NewGuid().ToString();
+
         }
     }
 }
