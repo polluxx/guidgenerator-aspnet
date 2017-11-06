@@ -12,7 +12,6 @@ namespace GuidGenerator.Controllers
         // GET api/values/
         public string Get()
         {
-            
             return System.Guid.NewGuid().ToString();
         }
     }
